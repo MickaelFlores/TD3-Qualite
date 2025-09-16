@@ -15,6 +15,7 @@ public class App {
         return "Hello World!";
     }
 
+    // Fonctionnalité 2 developpé
     public static String hello(String param) {
         return param;
     }
